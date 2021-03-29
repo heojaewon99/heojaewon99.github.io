@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "허재원"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/20210221_112357.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**별일 없이 사는 사람**"
   location         : "대한민국, 용인"
   email            : "modrt999@gmail.com"
